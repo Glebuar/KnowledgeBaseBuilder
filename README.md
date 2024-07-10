@@ -65,4 +65,4 @@ This project scrapes specific web pages and converts the content into HTML files
 ## Running the Script
 
 ```bash
-python your_script.py
+python main.py
